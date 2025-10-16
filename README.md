@@ -97,11 +97,11 @@ ________________________________________
 ________________________________________
 ## 👁️‍🗨️ Dashboard Preview  
 ### Branch Dashboard:  
-![Dashboard]https://github.com/aishwarya236-gif/Insurance-Project-Power-BI/blob/main/Branch%20Dashboard-Image.PNG  
+![Branch Dashboard](https://raw.githubusercontent.com/aishwarya236-gif/Insurance-Project-Power-BI/main/Branch%20Dashboard-Image.PNG)
 
 
 ### Policy Dashboard:  
-![Dashboard]https://github.com/aishwarya236-gif/Insurance-Project-Power-BI/blob/main/Policy%20Dashboard.PNG  
+![Dashboard](https://github.com/aishwarya236-gif/Insurance-Project-Power-BI/blob/main/Policy%20Dashboard.PNG)
 
 ________________________________________
 ## 🧩 KPI Summary
