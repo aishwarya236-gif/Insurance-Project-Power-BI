@@ -88,26 +88,28 @@ ________________________________________
 •  Purpose: Assesses the impact of claims on profitability.  
 
 ________________________________________
-## 💡 Business Impact & Insights
-1. Improved branch-level transparency into sales and revenue performance.
-2. Enabled data-driven renewal strategy by tracking expiring policies.
-3. Supported executive decision-making with KPIs on policy mix and growth.
-4. Enhanced cross-sell opportunities through income-class analysis.
-5. Reduced manual reporting time through Power BI automation.
+## 💡 Business Impact & Insights  
+1. Improved branch-level transparency into sales and revenue performance.  
+2. Enabled data-driven renewal strategy by tracking expiring policies.  
+3. Supported executive decision-making with KPIs on policy mix and growth.  
+4. Enhanced cross-sell opportunities through income-class analysis.  
+5. Reduced manual reporting time through Power BI automation.  
 ________________________________________
-## 👁️‍🗨️ Dashboard Preview
-## Branch Dashboard:  
-![Dashboard Preview] https://github.com/aishwarya236-gif/Insurance-Project-Power-BI/blob/main/Branch%20Dashboard-Image.PNG
+## 👁️‍🗨️ Dashboard Preview  
+### Branch Dashboard:  
+![Dashboard]https://github.com/aishwarya236-gif/Insurance-Project-Power-BI/blob/main/Branch%20Dashboard-Image.PNG  
 
-## Policy Dashboard:  
-![Dashboard Preview] https://github.com/aishwarya236-gif/Insurance-Project-Power-BI/blob/main/Policy%20Dashboard.PNG
+
+### Policy Dashboard:  
+![Dashboard]https://github.com/aishwarya236-gif/Insurance-Project-Power-BI/blob/main/Policy%20Dashboard.PNG  
 
 ________________________________________
 ## 🧩 KPI Summary
-The KPIs across both dashboards were designed to align business metrics with actionable insights. They enable:
-•	Continuous monitoring of branch efficiency and agent performance
-•	Deep understanding of policy distribution and customer behaviour
-•	Focused strategies for renewals, retention, and cross-selling
+The KPIs across both dashboards were designed to align business metrics with actionable insights.  
+They enable:  
+•	Continuous monitoring of branch efficiency and agent performance  
+•	Deep understanding of policy distribution and customer behaviour  
+•	Focused strategies for renewals, retention, and cross-selling  
 ________________________________________
 ## 🏁 Conclusion
 This Power BI project delivers a unified view of insurance operations, helping management measure performance, identify opportunities, and make data-driven strategic decisions.
