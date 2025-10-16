@@ -1,6 +1,6 @@
 # Insurance-Project-Power-BI
 
-🧾 ## Insurance Policy & Branch Dashboard
+## 🧾 Insurance Policy & Branch Dashboard
 📝 ## Project Description
 Interactive Power BI Dashboard for Insurance Policy & Branch Analysis — A data-driven visualization that tracks key metrics like total premium, renewal rate, and branch performance. Designed to uncover insights across policy types, agents, and branches, enabling faster, smarter business decisions.
 
