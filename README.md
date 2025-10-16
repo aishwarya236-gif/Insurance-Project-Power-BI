@@ -8,7 +8,7 @@ To analyze and monitor insurance policy performance across different branches, a
 ________________________________________
 ## 🧰 Tech Stack  
 •	  Power BI – Data modeling, visualization, and DAX measures  
-•	  Excel / CSV – Data source and preprocessing  
+•	  Excel – Data source and preprocessing  
 •	  Power Query – Data cleaning and transformation  
 •	  Data Modeling – Relationships between different tables  
 •	  DAX (Data Analysis Expressions) – Calculated measures and KPIs  
@@ -46,10 +46,10 @@ ________________________________________
 •	Definition: Compares actual performance against defined targets for each business type.  
 •	Purpose: Evaluates branch productivity and goal completion.  
 4.	Stage Funnel by Revenue  
-•	Definition: Revenue contribution across stages (e.g., Qualify, Proposal, Won, Lost).  
+•	Definition: Revenue contribution across stages.  
 •	Purpose: Visualizes the opportunity pipeline and conversion efficiency.  
 5.	Number of Meetings by Account Executive  
-•	Definition: Meetings categorized by Account Executive (can be derived from Opportunity table).  
+•	Definition: Meetings categorized by Account Executive.  
 •	Purpose: Tracks engagement per executive to identify high-performing relationship managers.  
 6.	Top Open Opportunities  
 •	Definition: List of top potential deals not yet closed, sorted by revenue amount.  
@@ -69,21 +69,21 @@ ________________________________________
 •  Definition: Policies grouped by gender.  
 •  Purpose: Helps analyze market penetration by gender.  
 5.	Policy Type Wise Policy Count  
-•  Definition: Policies categorized by product_group.  
+•  Definition: Number of policies distributed by policy type.  
 •  Purpose: Identifies best-selling insurance categories.  
-6.	Policies Expiring This Year  
-•  Definition: Policies with policy_end_date within the current year.  
+7.	Policies Expiring This Year  
+•  Definition: Count of policies set to expire within the current calendar year.  
 •  Purpose: Tracks upcoming renewals for proactive follow-up.  
-7.	Premium Growth Rate  
+8.	Premium Growth Rate  
 •  Definition: Percentage increase in premium revenue over a specific time period.  
 •  Purpose: Measures premium revenue growth over time.  
-8.	Claim Status Wise Policy Count  
+9.	Claim Status Wise Policy Count  
 •  Definition: Policies segmented by claim status.  
 •  Purpose: Evaluates claims handling performance.  
-9.	Payment Status Wise Policy Count   
+10.	Payment Status Wise Policy Count   
 •  Definition: Segmentation of policies based on payment completion.  
 •  Purpose: Monitors financial compliance.  
-10.	Total Claim Amount  
+11.	Total Claim Amount  
 •  Definition: Total claims payout value.  
 •  Purpose: Assesses the impact of claims on profitability.  
 
